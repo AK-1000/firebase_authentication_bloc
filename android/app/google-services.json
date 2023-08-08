@@ -1,0 +1,399 @@
+{
+  "project_info": {
+    "project_number": "1067420921373",
+    "firebase_url": "https://akfirst-be144.firebaseio.com",
+    "project_id": "akfirst-be144",
+    "storage_bucket": "akfirst-be144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067420921373:android:21666eda776356da40a0f4",
+        "android_client_info": {
+          "package_name": "ak1000.money.money_handling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLhM9pypxzlvDTT7dZMWzmFo9YekXjpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067420921373-24t6qtmfr7icdb6o482vh00uqlaai1us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ak1000.money.moneyHandling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067420921373:android:9cb3007dd3419e4140a0f4",
+        "android_client_info": {
+          "package_name": "codingwithflutter.com.time_tracker_flutter_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067420921373-e9usrbf0sib6g80ib25cs1o2ust247hq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codingwithflutter.com.time_tracker_flutter_course",
+            "certificate_hash": "032710d9213bdc9ff4940f0d4c82b41d988c241c"
+          }
+        },
+        {
+          "client_id": "1067420921373-gksm60fil9aav74ttht8rmc7r7jio00j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codingwithflutter.com.time_tracker_flutter_course",
+            "certificate_hash": "37a9ec3a8f26198145ce01f707131e9d34a15466"
+          }
+        },
+        {
+          "client_id": "1067420921373-i7iq3jvj9598embqukl5tu1153dgojnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codingwithflutter.com.time_tracker_flutter_course",
+            "certificate_hash": "9082173f528fe02f9e12bf30da2f0ee3886a6f36"
+          }
+        },
+        {
+          "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLhM9pypxzlvDTT7dZMWzmFo9YekXjpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067420921373-24t6qtmfr7icdb6o482vh00uqlaai1us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ak1000.money.moneyHandling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067420921373:android:67d851072404b57840a0f4",
+        "android_client_info": {
+          "package_name": "com.ak1000.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067420921373-gcbs48pr2neov52sk9pkh607hgksdhr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ak1000.food_delivery",
+            "certificate_hash": "e3c29dcfdcf5b2aeae1cb0aac61103e03a9243a5"
+          }
+        },
+        {
+          "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLhM9pypxzlvDTT7dZMWzmFo9YekXjpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067420921373-24t6qtmfr7icdb6o482vh00uqlaai1us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ak1000.money.moneyHandling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067420921373:android:7b4baef985135cf940a0f4",
+        "android_client_info": {
+          "package_name": "com.ali.khatib.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067420921373-bepl883alvj17ba8ms24ioolu0m9mfe9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ali.khatib.food_delivery_app",
+            "certificate_hash": "e3c29dcfdcf5b2aeae1cb0aac61103e03a9243a5"
+          }
+        },
+        {
+          "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLhM9pypxzlvDTT7dZMWzmFo9YekXjpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067420921373-24t6qtmfr7icdb6o482vh00uqlaai1us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ak1000.money.moneyHandling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067420921373:android:8e23331776b2458640a0f4",
+        "android_client_info": {
+          "package_name": "com.authentication.firebase_authentication_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLhM9pypxzlvDTT7dZMWzmFo9YekXjpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067420921373-24t6qtmfr7icdb6o482vh00uqlaai1us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ak1000.money.moneyHandling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067420921373:android:c35c3a8804a5592540a0f4",
+        "android_client_info": {
+          "package_name": "com.big.boss.big_boss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067420921373-inndr38625g3ihfnf5fims4uuetf0j9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.big.boss.big_boss",
+            "certificate_hash": "37a9ec3a8f26198145ce01f707131e9d34a15466"
+          }
+        },
+        {
+          "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLhM9pypxzlvDTT7dZMWzmFo9YekXjpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067420921373-24t6qtmfr7icdb6o482vh00uqlaai1us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ak1000.money.moneyHandling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067420921373:android:f6c892c01ddafadc",
+        "android_client_info": {
+          "package_name": "com.example.ak1000.firehot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLhM9pypxzlvDTT7dZMWzmFo9YekXjpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067420921373-24t6qtmfr7icdb6o482vh00uqlaai1us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ak1000.money.moneyHandling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067420921373:android:6cc8279b8ce6026040a0f4",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067420921373-7aum73p7n3hk86sv1gjf1v6vbo88mhpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_delivery",
+            "certificate_hash": "e3c29dcfdcf5b2aeae1cb0aac61103e03a9243a5"
+          }
+        },
+        {
+          "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLhM9pypxzlvDTT7dZMWzmFo9YekXjpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067420921373-24t6qtmfr7icdb6o482vh00uqlaai1us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ak1000.money.moneyHandling"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067420921373:android:b5d1bf8193745e3440a0f4",
+        "android_client_info": {
+          "package_name": "com.money.handling.handling_finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067420921373-u814r7n09718mhd0juli5ttuuun46dn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.money.handling.handling_finance",
+            "certificate_hash": "e3c29dcfdcf5b2aeae1cb0aac61103e03a9243a5"
+          }
+        },
+        {
+          "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLhM9pypxzlvDTT7dZMWzmFo9YekXjpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067420921373-cbojjcg3miebumemvgr0ifaqh9nae87r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067420921373-24t6qtmfr7icdb6o482vh00uqlaai1us.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ak1000.money.moneyHandling"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
